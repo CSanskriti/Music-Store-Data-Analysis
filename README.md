@@ -1,12 +1,12 @@
-## Music Store Data Analysis using SQL
-# Overview
+# Music Store Data Analysis using SQL
+## Overview
 This project involves the analysis of a Music Store's data using SQL. The primary goal is to gain insights into the store's music collection and customer interactions through database queries. The project was developed using SQL and Visual Studio as the development tools.
 
-Project Components
+##Project Components
 Development Tools:
 SQL
 Visual Studio
-Features
+##Features
 Database Schema Creation: The project involves the creation of a SQL database schema for the Music Store, including the necessary database tables.
 
 SQL Queries for Analysis: Several SQL queries have been developed to analyze the Music Store's data. These queries include:
@@ -27,7 +27,7 @@ Question Set 3 – Advanced:
 Query 1: Find how much amount spent by each customer on artists? Write a query to return customer name, artist name, and total spent.
 Query 2: We want to find out the most popular music Genre for each country. We determine the most popular genre as the genre with the highest amount of purchases. Write a query that returns each country along with the top Genre. For countries where the maximum number of purchases is shared, return all Genres.
 Query 3: Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount.
-Getting Started
+##Getting Started
 Prerequisites:
 
 Make sure you have SQL Server or a compatible relational database management system installed.
@@ -38,13 +38,13 @@ Import the SQL script for creating the database schema into your SQL Server or d
 Running Queries:
 
 Use SQL queries to perform the analysis as described in the "Features" and "Additional Queries" sections.
-Usage
+##Usage
 The SQL queries provided can be used to analyze the Music Store's data. You can customize and extend these queries to gain more insights into the data, as needed.
 
-Project Structure
+##Project Structure
 schema.sql: SQL script for creating the database schema and tables.
 queries.sql: SQL queries for data analysis, including the additional queries.
-Contributing
+##Contributing
 If you want to contribute to this project, please follow these steps:
 
 Fork the repository.
