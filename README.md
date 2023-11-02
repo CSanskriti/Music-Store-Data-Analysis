@@ -1,5 +1,5 @@
-Music Store Data Analysis using SQL
-Overview
+## Music Store Data Analysis using SQL
+# Overview
 This project involves the analysis of a Music Store's data using SQL. The primary goal is to gain insights into the store's music collection and customer interactions through database queries. The project was developed using SQL and Visual Studio as the development tools.
 
 Project Components
